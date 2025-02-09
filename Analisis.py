@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Especifica el archivo CSV a analizar (cámbialo por el que subiste a Zenodo)
-csv_file = "dataset.csv"
+csv_file = "circle.csv"
 
 try:
     # Cargar el dataset
